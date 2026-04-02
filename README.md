@@ -60,16 +60,6 @@ Place it in the root directory.
 python src/main.py
 
 
-## Output
-(Add screenshots after running the project)
-
-Example
-
-images/output_safe.png
-images/output_warning.png
-images/output_alert.png
-
-
 ## How It Works
 
 1. Webcam captures live video
